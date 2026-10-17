@@ -1,0 +1,14 @@
+Tek dosya (önerilen):
+  pocketpal_tam.bin      -> 0x0
+
+Ayrı dosyalar (esptool ile):
+  bootloader.bin         -> 0x0
+  partition-table.bin    -> 0x8000
+  pocketpal.bin          -> 0x10000
+
+Örnek:
+  python -m esptool --chip esp32c6 -b 460800 write_flash 0x0 pocketpal_tam.bin
+
+Tarayıcıdan: https://espressif.github.io/esptool-js/  (Chrome / Edge)
+Kart görünmüyorsa XIAO'daki B (BOOT) düğmesini basılı tutarak USB'yi takın.
+Hedef: ESP32-C6, ESP-IDF v5.5.6 ile derlendi.

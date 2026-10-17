@@ -1,0 +1,19 @@
+﻿Parça;Seçilen ürün;Adet;Türkiye'de nereden;Fiyat (TL, KDV dahil);Not
+Ekran;"Sharp LS013B7DH03, 1,28"" 128×128 bellek LCD";1;e-komponent;941 (10+ adet: 729);Yurt dışı stoktan 7–10 iş günü. Cam: yalnızca kenarından tutun.
+Ekran adaptörü;10 pin 0,5 mm FPC → 2,54 mm adaptör, konnektörü lehimli;1;yerel elektronikçi / direnc.net;≈ 40 (tahmini);Konnektörü lehimli olanı alın: ince aralıklı lehim gerekmez.
+Kontrolcü;Seeed Studio XIAO ESP32-C6;1;motorobit, Trendyol (Seeed), e-komponent;≈ 450 (tahmini);Üzerinde LiPo şarj devresi var. Pin başlığı LEHİMLENMEMİŞ olanı alın.
+İvmeölçer;LIS3DH modülü (I2C);1;direnc.net;≈ 200–400 (tahmini);Güç LED'i varsa sökün.
+Pil;LiPo 502030, 3,7 V ~250 mAh, koruma devreli, kablolu;1;"n11 / Hepsiburada (""devreli""), Robotistan";≈ 120 (tahmini);"5 × 20 × 30 mm. İlanda ""devreli"" yazmalı."
+Hoparlör;20 mm pasif piezo disk, kablolu;1;yerel elektronikçi;≈ 15;"Düz pirinç disk; içinde osilatör olan ""aktif buzzer"" DEĞİL."
+Düğme;6 × 6 mm tact düğme, 5 mm yükseklik, 4 bacaklı;2;yerel;≈ 5;
+Anahtar;Mini sürgülü anahtar SS12D00 (3 bacak);1;yerel;≈ 5;
+Diyot;1N4148;1;yerel;≈ 1;Uyandırma pinini paylaştırır.
+Direnç;1 MΩ, 1/4 W veya 1/8 W;2;yerel;≈ 1;Pil ölçümü bölücüsü.
+Kablo;"30 AWG silikon kablo; en az kırmızı, siyah + 2 renk";~1,5 m;yerel;≈ 40;Silikon kablo ince ve yumuşaktır. Tablodaki renkler öneridir.
+Vida;M2 × 10 kendinden kılavuzlu (sac/plastik) vida;4;hırdavat / elektronikçi;≈ 10;Ön kabuğun sütunlarına doğrudan girer, insert gerekmez.
+Halka;20–25 mm anahtarlık halkası;1;kırtasiye / hırdavat;≈ 5;
+Bant;Kapton bant, ince çift taraflı bant (en fazla 0,5 mm), ısıyla daralan makaron;az;yerel;≈ 30;Kalın köpük bant KULLANMAYIN: ekranın altında yer yok.
+Ekran koruyucu;En fazla 0,7 mm şeffaf plastik: ince akrilik/PET levha ya da şeffaf blister ambalaj, 26,6 × 30,3 mm;1;hobi dükkânı / geri dönüşüm;0–20;Daha kalını camı sıkıştırır. stl/ekran_kapagi_sablon.svg 1:1 kesim şablonu.
+Filament;"PLA; kedi seti ≈ 18 g, yıldız seti ≈ 25 g";—;—;≈ 10–15;Düğme kapakları farklı renkte basılabilir.
+
+Toplam;;;;≈ 1.870 – 2.100;"17 Ekim 2026; tahmini fiyatları sipariş öncesi kontrol edin"

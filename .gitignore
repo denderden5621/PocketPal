@@ -1,0 +1,19 @@
+# ESP-IDF derleme çıktıları
+firmware/build/
+firmware/sdkconfig
+firmware/sdkconfig.old
+firmware/managed_components/
+firmware/dependencies.lock
+
+# Ekran simülatörü ikilisi
+firmware/tools/host_sim/sim
+
+# Üretilen ara dosyalar
+stl/_montaj_konumu/
+images/_doku/
+docs/_kirpik/
+dist/
+
+__pycache__/
+*.pyc
+.DS_Store
